@@ -29,3 +29,4 @@
 2. Generative Adversarial Networks by OpenAI (https://openai.com/blog/generative-models/)
 3. 이미지의 빈부분을 채우는 GAN (http://bamos.github.io/2016/08/09/deep-completion/, https://github.com/bamos/dcgan-completion.tensorflow)
 4. 김태훈씨의 쉽게 설명한 DCGAN in Tensorflow (http://www.slideshare.net/carpedm20/pycon-korea-2016, https://github.com/carpedm20/DCGAN-tensorflow)
+5. 텍스트를 이미지로 바꾸는 GAN text-to-image (https://github.com/reedscot/icml2016)
