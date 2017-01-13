@@ -24,6 +24,7 @@
 7. 명화의 화풍을 따라 그리는 Neural Style (http://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/)
 8. 레이어별로 뉴런의 Activation 및 반응을 볼 수 있는 자료 (https://github.com/yosinski/deep-visualization-toolbox)
 9. Google Deepdream (https://github.com/google/deepdream)
+10. 2016 No.1 ResNet (https://github.com/KaimingHe/deep-residual-networks)
 
 # Unsupervised Learning
 
