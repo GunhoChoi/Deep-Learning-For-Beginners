@@ -25,6 +25,7 @@
 8. 레이어별로 뉴런의 Activation 및 반응을 볼 수 있는 자료 (https://github.com/yosinski/deep-visualization-toolbox)
 9. Google Deepdream (https://github.com/google/deepdream)
 10. 2016 No.1 ResNet (https://github.com/KaimingHe/deep-residual-networks)
+11. Faster R-CNN (https://github.com/rbgirshick/py-faster-rcnn)
 
 # Unsupervised Learning
 
