@@ -36,3 +36,4 @@
 4. 이미지의 빈부분을 채우는 GAN (http://bamos.github.io/2016/08/09/deep-completion/, https://github.com/bamos/dcgan-completion.tensorflow)
 5. 텍스트를 이미지로 바꾸는 GAN text-to-image (https://github.com/reedscot/icml2016)
 6. GAN video generation (http://web.mit.edu/vondrick/tinyvideo/)
+7. DCGAN Tutorial (https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.gdxkk32d7)
