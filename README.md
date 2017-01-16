@@ -37,6 +37,7 @@
 5. 텍스트를 이미지로 바꾸는 GAN text-to-image (https://github.com/reedscot/icml2016)
 6. GAN video generation (http://web.mit.edu/vondrick/tinyvideo/)
 7. DCGAN Tutorial (https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.gdxkk32d7)
+8. InfoGAN Tutorial (https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46#.9iaqd4it5)
 
 # Others
 
