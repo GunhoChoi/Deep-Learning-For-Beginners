@@ -5,6 +5,7 @@
 
 1. 딥러닝과 관련된 개념들 (https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 2. Andrew NG 교수님의 Coursera 강의 (https://www.coursera.org/learn/machine-learning)
+3. Ian goodfellow (https://drive.google.com/drive/mobile/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8?usp=sharing)
 
 # General Neural Networks
 
