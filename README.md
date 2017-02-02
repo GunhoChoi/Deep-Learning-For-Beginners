@@ -6,6 +6,7 @@
 1. 딥러닝과 관련된 개념들 (https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 2. Andrew NG 교수님의 Coursera 강의 (https://www.coursera.org/learn/machine-learning)
 3. Ian goodfellow의 책 (https://github.com/HFTrader/DeepLearningBook)
+4. Numpy-100 Tutorial (https://github.com/rougier/numpy-100)
 
 # General Neural Networks
 
