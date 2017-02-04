@@ -46,4 +46,9 @@
 # Recurrent Neural Networks
 
 1. RNN에 대한 친절한 설명 (https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
-2. Andrej Kaparthy RNN의 활용가능성 (http://karpathy.github.io/2015/05/21/rnn-effectiveness/)성
+2. Andrej Kaparthy RNN의 활용가능성 (http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+# Word2vec
+
+1. Word2vec이 필요한 이유는 무엇인가? 공식사이트 번역본 (http://khanrc.tistory.com/entry/TensorFlow-6-word2vec-Theory)
+2. Word2vec의 공식사이트 튜토리얼 코드 및 번역 (http://khanrc.tistory.com/entry/TensorFlow-7-word2vec-Implementation)
