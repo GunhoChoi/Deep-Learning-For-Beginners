@@ -51,4 +51,4 @@
 # Word2vec
 
 1. Word2vec이 필요한 이유와 코드 공식사이트 번역본 (http://khanrc.tistory.com/entry/TensorFlow-6-word2vec-Theory, http://khanrc.tistory.com/entry/TensorFlow-7-word2vec-Implementation)
-2. Chris Mccormick Skip-gram model tutorial (http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+2. Chris Mccormick의 Word2vec 설명 (http://mccormickml.com/tutorials/)
