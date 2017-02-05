@@ -54,3 +54,4 @@
 1. Word2vec이 필요한 이유와 코드 공식사이트 번역본 (http://khanrc.tistory.com/entry/TensorFlow-6-word2vec-Theory, http://khanrc.tistory.com/entry/TensorFlow-7-word2vec-Implementation)
 2. Chris Mccormick의 Word2vec 설명 (http://mccormickml.com/tutorials/)
 3. 한국어와 NLTK, Gensim에 대한 박은정씨의 발표 (https://www.lucypark.kr/slides/2015-pyconkr/#1)
+4. Genism tutorial (https://radimrehurek.com/gensim/models/word2vec.html)
