@@ -49,6 +49,10 @@
 2. Andrej Kaparthy RNN의 활용가능성 (http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 3. Image caption generator in Tensorflow (https://github.com/tensorflow/models/tree/master/im2txt)
 
+# NLP
+
+1. CS224d for NLP (https://youtu.be/Qy0oEkCZkBI?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
+
 # Word2vec
 
 1. Word2vec이 필요한 이유와 코드 공식사이트 번역본 (http://khanrc.tistory.com/entry/TensorFlow-6-word2vec-Theory, http://khanrc.tistory.com/entry/TensorFlow-7-word2vec-Implementation)
