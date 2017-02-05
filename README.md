@@ -55,3 +55,4 @@
 2. Chris Mccormick의 Word2vec 설명 (http://mccormickml.com/tutorials/)
 3. 한국어와 NLTK, Gensim에 대한 박은정씨의 발표 (https://www.lucypark.kr/slides/2015-pyconkr/#1)
 4. Genism tutorial (https://radimrehurek.com/gensim/models/word2vec.html)
+5. Kaggle word2vec tutorial (https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
