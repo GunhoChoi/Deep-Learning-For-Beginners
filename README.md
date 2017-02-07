@@ -52,6 +52,7 @@
 # NLP
 
 1. CS224d for NLP (https://youtu.be/Qy0oEkCZkBI?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
+2. Oxford Deep NLP (https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 # Word2vec
 
