@@ -48,6 +48,7 @@
 1. RNN에 대한 친절한 설명 (https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 2. Andrej Kaparthy RNN의 활용가능성 (http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 3. Image caption generator in Tensorflow (https://github.com/tensorflow/models/tree/master/im2txt)
+4. Awesome RNN (https://github.com/kjw0612/awesome-rnn)
 
 # NLP
 
