@@ -28,10 +28,14 @@
 8. 레이어별로 뉴런의 Activation 및 반응을 볼 수 있는 자료 (https://github.com/yosinski/deep-visualization-toolbox)
 9. Google Deepdream (https://github.com/google/deepdream)
 10. 2016 No.1 ResNet (https://github.com/KaimingHe/deep-residual-networks)
-11. Faster R-CNN (https://github.com/rbgirshick/py-faster-rcnn)
-12. Transposed Convoultion의 문제점과 해결방안 (http://distill.pub/2016/deconv-checkerboard/) 
-13. Semantic Flow segmentation (https://ps.is.tuebingen.mpg.de/research_projects/semantic-optical-flow, https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/261/semanticflow.pdf)
-14. 자료들이 모여있는 Awesome Deep vision (https://github.com/kjw0612/awesome-deep-vision)
+11. Transposed Convoultion의 문제점과 해결방안 (http://distill.pub/2016/deconv-checkerboard/) 
+12. 자료들이 모여있는 Awesome Deep vision (https://github.com/kjw0612/awesome-deep-vision)
+
+# Detection & Semantic Segmentation
+
+1. Fully Convolutional Network for Semantic Segmentation (https://github.com/shekkizh/FCN.tensorflow)
+2. Faster R-CNN (https://github.com/rbgirshick/py-faster-rcnn)
+3. Semantic Flow segmentation (https://ps.is.tuebingen.mpg.de/research_projects/semantic-optical-flow, https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/261/semanticflow.pdf)
 
 # Unsupervised Learning
 
