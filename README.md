@@ -31,6 +31,7 @@
 11. Faster R-CNN (https://github.com/rbgirshick/py-faster-rcnn)
 12. Transposed Convoultion의 문제점과 해결방안 (http://distill.pub/2016/deconv-checkerboard/) 
 13. Semantic Flow segmentation (https://ps.is.tuebingen.mpg.de/research_projects/semantic-optical-flow, https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/261/semanticflow.pdf)
+14. 자료들이 모여있는 Awesome Deep vision (https://github.com/kjw0612/awesome-deep-vision)
 
 # Unsupervised Learning
 
