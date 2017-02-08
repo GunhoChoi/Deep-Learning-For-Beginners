@@ -64,3 +64,7 @@
 4. Genism tutorial (https://radimrehurek.com/gensim/models/word2vec.html)
 5. Kaggle word2vec tutorial (https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
 6. Word2vec의 역사(http://sebastianruder.com/word-embeddings-1/)
+
+# Reinforcement Learning
+
+1. Simple Reinforcement Learning with Tensorflow by Arthur Juliani (https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.hegtvglmg)
