@@ -7,6 +7,7 @@
 2. Andrew NG 교수님의 Coursera 강의 (https://www.coursera.org/learn/machine-learning)
 3. Ian goodfellow의 책 (https://github.com/HFTrader/DeepLearningBook)
 4. Numpy-100 Tutorial (https://github.com/rougier/numpy-100)
+5. Numpy tutorial (http://www.dataquest.io/blog/numpy-tutorial-python/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 # General Neural Networks
 
