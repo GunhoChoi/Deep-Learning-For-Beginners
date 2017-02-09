@@ -74,3 +74,4 @@
 # Reinforcement Learning
 
 1. Simple Reinforcement Learning with Tensorflow by Arthur Juliani (https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.hegtvglmg)
+2. Udacity Self Driving Car Simulator (https://github.com/udacity/self-driving-car-sim)
