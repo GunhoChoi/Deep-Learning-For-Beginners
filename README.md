@@ -8,7 +8,7 @@
 3. Ian goodfellow의 책 (https://github.com/HFTrader/DeepLearningBook)
 4. Numpy-100 Tutorial (https://github.com/rougier/numpy-100)
 5. Numpy tutorial (http://www.dataquest.io/blog/numpy-tutorial-python/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-
+6. Kaggle 1st place for 2 years (http://course.fast.ai/lessons/lesson1.html)
 # General Neural Networks
 
 1. 열한줄로 뉴럴넷 짜보기 (https://iamtrask.github.io/2015/07/12/basic-python-network/)
