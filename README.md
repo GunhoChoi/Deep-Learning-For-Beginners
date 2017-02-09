@@ -4,7 +4,7 @@
 # Libraries
 
 1. Tensorflow (https://www.tensorflow.org/)
-2. CNTK (https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
+2. CNTK (https://github.com/Microsoft/CNTK, https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
 3. CNTK Tutorial (https://notebooks.azure.com/library/cntkbeta2)
 
 # Machine Learning Basics
