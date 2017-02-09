@@ -1,6 +1,11 @@
 # Deep Learning
 2016년 8월부터 딥러닝공부를 하면서 봤던 강의영상, 동영상, 블로그들의 목록입니다.
 
+# Libraries
+
+1. Tensorflow (https://www.tensorflow.org/)
+2. CNTK (https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
+
 # Machine Learning Basics
 
 1. 딥러닝과 관련된 개념들 (https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
@@ -9,6 +14,7 @@
 4. Numpy-100 Tutorial (https://github.com/rougier/numpy-100)
 5. Numpy tutorial (http://www.dataquest.io/blog/numpy-tutorial-python/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 6. Kaggle 1st place for 2 years (http://course.fast.ai/lessons/lesson1.html)
+
 # General Neural Networks
 
 1. 열한줄로 뉴럴넷 짜보기 (https://iamtrask.github.io/2015/07/12/basic-python-network/)
