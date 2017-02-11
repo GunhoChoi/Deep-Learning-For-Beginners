@@ -48,15 +48,19 @@
 # Unsupervised Learning
 
 1. 충격적이었던 Semi-supervised Learning (http://rinuboney.github.io/2016/01/19/ladder-network.html, https://github.com/CuriousAI/ladder)
+2. 김범준씨의 Variational Autoencoder의 번역(http://nolsigan.com/blog/what-is-variational-autoencoder/)
+
+# Generative Adversarial Networks
+
+1. Adversarial Nets papers (https://github.com/zhangqianhui/AdversarialNetsPapers)
 2. Generative Adversarial Networks by OpenAI (https://openai.com/blog/generative-models/)
 3. 김태훈씨의 쉽게 설명한 DCGAN in Tensorflow (http://www.slideshare.net/carpedm20/pycon-korea-2016, https://github.com/carpedm20/DCGAN-tensorflow)
 4. 간단한 GAN 설명과 동영상 예시 (http://keunwoochoi.blogspot.kr/)
-4. 이미지의 빈부분을 채우는 GAN (http://bamos.github.io/2016/08/09/deep-completion/, https://github.com/bamos/dcgan-completion.tensorflow)
-5. 텍스트를 이미지로 바꾸는 GAN text-to-image (https://github.com/reedscot/icml2016)
-6. GAN video generation (http://web.mit.edu/vondrick/tinyvideo/)
-7. DCGAN Tutorial (https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.gdxkk32d7)
-8. InfoGAN Tutorial (https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46#.9iaqd4it5)
-9. 김범준씨의 Variational Autoencoder의 번역(http://nolsigan.com/blog/what-is-variational-autoencoder/)
+5. 이미지의 빈부분을 채우는 GAN (http://bamos.github.io/2016/08/09/deep-completion/, https://github.com/bamos/dcgan-completion.tensorflow)
+6. 텍스트를 이미지로 바꾸는 GAN text-to-image (https://github.com/reedscot/icml2016)
+7. GAN video generation (http://web.mit.edu/vondrick/tinyvideo/)
+8. DCGAN Tutorial (https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.gdxkk32d7)
+9. InfoGAN Tutorial (https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46#.9iaqd4it5)
 
 # Recurrent Neural Networks
 
