@@ -16,6 +16,7 @@
 4. Numpy-100 Tutorial (https://github.com/rougier/numpy-100)
 5. Numpy tutorial (http://www.dataquest.io/blog/numpy-tutorial-python/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 6. Kaggle 1st place for 2 years (http://course.fast.ai/lessons/lesson1.html)
+7. 아니 이 많은걸 언제 다 정리하셨대 (https://handong1587.github.io/index.html)
 
 # General Neural Networks
 
