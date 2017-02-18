@@ -48,7 +48,7 @@
 3. Semantic Flow segmentation (https://ps.is.tuebingen.mpg.de/research_projects/semantic-optical-flow, https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/261/semanticflow.pdf)
 4. Image Segmentation (http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/)
 
-# < Unsupervised Learning >
+# Unsupervised Learning
 
 1. 충격적이었던 Semi-supervised Learning (http://rinuboney.github.io/2016/01/19/ladder-network.html, https://github.com/CuriousAI/ladder)
 
