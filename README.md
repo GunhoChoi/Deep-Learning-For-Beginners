@@ -58,7 +58,7 @@
 2. Convolutional Autoencoder
 3. Adversarial Autoencoder
 4. Generating Large Images from Latent Vectors (http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/, https://arxiv.org/pdf/1512.09300.pdf)
-5. Variational Autoencoder (http://blog.fastforwardlabs.com/2016/08/12/introducing-variational-autoencoders-in-prose-and.html, https://github.com/kvfrans/variational-autoencoder)
+5. Variational Autoencoder (https://www.youtube.com/watch?v=BiWRaES2WN0&t=991s, http://blog.fastforwardlabs.com/2016/08/12/introducing-variational-autoencoders-in-prose-and.html, https://github.com/kvfrans/variational-autoencoder)
 
 
 # Generative Adversarial Networks
