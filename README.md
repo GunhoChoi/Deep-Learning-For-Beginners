@@ -104,3 +104,4 @@
 
 1. Fast Forward Labs (http://blog.fastforwardlabs.com/)
 2. Variational Autoencoder (http://oduerr.github.io/talks/)
+3. Google Experiments (https://aiexperiments.withgoogle.com/)
