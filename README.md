@@ -103,4 +103,4 @@
 # Blogs
 
 1. Fast Forward Labs (http://blog.fastforwardlabs.com/)
-2. Variational Autoencoder (http://oduerr.github.io/)
+2. Variational Autoencoder (http://oduerr.github.io/talks/)
