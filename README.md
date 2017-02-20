@@ -54,9 +54,10 @@
 
 # Autoencoder
 
-1. 김범준씨의 Variational Autoencoder의 번역(http://nolsigan.com/blog/what-is-variational-autoencoder/)
+1. 김범준씨의 Variational Autoencoder의 번역 (http://nolsigan.com/blog/what-is-variational-autoencoder/)
 2. Convolutional Autoencoder
 3. Adversarial Autoencoder
+4. Generating Large Images from Latent Vectors (http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/, https://arxiv.org/pdf/1512.09300.pdf)
 
 # Generative Adversarial Networks
 
