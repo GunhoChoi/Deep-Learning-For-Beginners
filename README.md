@@ -100,6 +100,10 @@
 2. Udacity Self Driving Car Simulator (https://github.com/udacity/self-driving-car-sim)
 3. UC Berkeley RL (http://rll.berkeley.edu/deeprlcourse/)
 
+# Visualization
+
+1. t-SNE (https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/)
+
 # Blogs
 
 1. Fast Forward Labs (http://blog.fastforwardlabs.com/)
