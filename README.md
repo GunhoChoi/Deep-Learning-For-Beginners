@@ -102,7 +102,7 @@
 
 # Visualization
 
-1. t-SNE (https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/)
+1. t-SNE (https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/, http://distill.pub/2016/misread-tsne/)
 
 # Blogs
 
