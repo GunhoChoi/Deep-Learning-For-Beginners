@@ -103,6 +103,7 @@
 # Visualization
 
 1. t-SNE (https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/, http://distill.pub/2016/misread-tsne/)
+2. t-SNE 저자 설명 (https://www.youtube.com/watch?v=EMD106bB2vY)
 
 # Blogs
 
