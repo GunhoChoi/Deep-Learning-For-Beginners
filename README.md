@@ -40,6 +40,7 @@
 11. Transposed Convoultion의 문제점과 해결방안 (http://distill.pub/2016/deconv-checkerboard/) 
 12. 자료들이 모여있는 Awesome Deep vision (https://github.com/kjw0612/awesome-deep-vision)
 13. ResNet in Tensorflow (https://github.com/ry/tensorflow-resnet)
+14. ResNet, DenseNet (https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.rbzbvof9l)
 
 # Detection & Semantic Segmentation
 
