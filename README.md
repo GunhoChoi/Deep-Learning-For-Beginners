@@ -105,7 +105,8 @@
 
 1. t-SNE (https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/, http://distill.pub/2016/misread-tsne/)
 2. t-SNE 저자 설명 (https://www.youtube.com/watch?v=EMD106bB2vY)
-3. MNIST 시각화(http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
+3. MNIST 시각화 (http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
+4. Tensorboard 예시 (https://github.com/normanheckscher/mnist-tensorboard-embeddings)
 
 # Blogs
 
