@@ -115,3 +115,4 @@
 2. Variational Autoencoder (http://oduerr.github.io/talks/)
 3. Google Experiments (https://aiexperiments.withgoogle.com/)
 4. Deep learning 2016 summary(https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
+5. Brandon Amos Blog (https://bamos.github.io/)
