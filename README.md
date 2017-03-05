@@ -7,6 +7,7 @@
 2. Tensorflow Cookbook (https://github.com/nfmcclure/tensorflow_cookbook)
 3. CNTK (https://github.com/Microsoft/CNTK, https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
 4. CNTK Tutorial (https://notebooks.azure.com/library/cntkbeta2)
+5. Keras Pretrained Models (https://github.com/fchollet/keras/blob/master/docs/templates/applications.md)
 
 # Machine Learning Basics
 
