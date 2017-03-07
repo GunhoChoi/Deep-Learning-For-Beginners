@@ -8,7 +8,7 @@
 3. CNTK (https://github.com/Microsoft/CNTK, https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
 4. CNTK Tutorial (https://notebooks.azure.com/library/cntkbeta2)
 5. Keras Pretrained Models (https://github.com/fchollet/keras/blob/master/docs/templates/applications.md)
-6. Hvass_lab_tutorials (https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+6. Keras Blog (https://blog.keras.io/index.html)
 
 # Machine Learning Basics
 
@@ -118,3 +118,4 @@
 3. Google Experiments (https://aiexperiments.withgoogle.com/)
 4. Deep learning 2016 summary(https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
 5. Brandon Amos Blog (https://bamos.github.io/)
+6. Hvass_lab_tutorials (https://github.com/Hvass-Labs/TensorFlow-Tutorials)
