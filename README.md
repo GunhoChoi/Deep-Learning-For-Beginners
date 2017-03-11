@@ -53,15 +53,13 @@
 
 # Unsupervised Learning
 
-1. 충격적이었던 Semi-supervised Learning (http://rinuboney.github.io/2016/01/19/ladder-network.html, https://github.com/CuriousAI/ladder)
+1.  Semi-supervised Learning (http://rinuboney.github.io/2016/01/19/ladder-network.html, https://github.com/CuriousAI/ladder)
 
 # Autoencoder
 
 1. 김범준씨의 Variational Autoencoder의 번역 (http://nolsigan.com/blog/what-is-variational-autoencoder/)
-2. Convolutional Autoencoder
-3. Adversarial Autoencoder
-4. Generating Large Images from Latent Vectors (http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/, https://arxiv.org/pdf/1512.09300.pdf)
-5. Variational Autoencoder (https://www.youtube.com/watch?v=BiWRaES2WN0&t=991s, http://blog.fastforwardlabs.com/2016/08/12/introducing-variational-autoencoders-in-prose-and.html, https://github.com/kvfrans/variational-autoencoder)
+1. Generating Large Images from Latent Vectors (http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/, https://arxiv.org/pdf/1512.09300.pdf)
+2. Variational Autoencoder (https://www.youtube.com/watch?v=BiWRaES2WN0&t=991s, http://blog.fastforwardlabs.com/2016/08/12/introducing-variational-autoencoders-in-prose-and.html, https://github.com/kvfrans/variational-autoencoder)
 
 
 # Generative Adversarial Networks
@@ -110,6 +108,10 @@
 3. MNIST 시각화 (http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 4. Tensorboard 예시 (https://github.com/normanheckscher/mnist-tensorboard-embeddings)
 5. How to use t-SNE effectively (http://distill.pub/2016/misread-tsne/)
+
+# Data Augmentation
+
+1. Data Augmentation with Keras api (http://machinelearningmastery.com/image-augmentation-deep-learning-keras/)
 
 # Blogs
 
