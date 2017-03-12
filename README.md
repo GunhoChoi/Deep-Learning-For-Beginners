@@ -9,6 +9,7 @@
 4. CNTK Tutorial (https://notebooks.azure.com/library/cntkbeta2)
 5. Keras Pretrained Models (https://github.com/fchollet/keras/blob/master/docs/templates/applications.md)
 6. Keras Blog (https://blog.keras.io/index.html)
+7. Python Torch tutorial (https://github.com/yunjey/pytorch-tutorial)
 
 # Machine Learning Basics
 
