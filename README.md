@@ -85,6 +85,7 @@
 
 1. CS224d for NLP (https://youtu.be/Qy0oEkCZkBI?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
 2. Oxford Deep NLP (https://github.com/oxford-cs-deepnlp-2017/lectures)
+3. Seq2seq TF1.0 code (https://github.com/ematvey/tensorflow-seq2seq-tutorials)
 
 # Word2vec
 
