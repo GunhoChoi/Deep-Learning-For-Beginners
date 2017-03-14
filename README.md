@@ -115,6 +115,7 @@
 # Data Augmentation
 
 1. Data Augmentation with Keras api (http://machinelearningmastery.com/image-augmentation-deep-learning-keras/)
+2. Winner of Galaxy zoo (http://benanne.github.io/2014/04/05/galaxy-zoo.html)
 
 # Blogs
 
