@@ -132,3 +132,4 @@
 4. Deep learning 2016 summary(https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
 5. Brandon Amos Blog (https://bamos.github.io/)
 6. Hvass_lab_tutorials (https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+7. Tensorflow Queue and Threads (https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0#.fbfqfygsm)
