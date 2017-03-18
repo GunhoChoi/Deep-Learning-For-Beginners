@@ -1,4 +1,6 @@
-# Deep Learning
+# Deep Learning for beginners
+![alt_text](http://cdn.ndtv.com/tech/images/gadgets/deep_dream_ibis.jpg)
+
 2016년 8월부터 딥러닝공부를 하면서 봤던 강의영상, 동영상, 블로그들의 목록입니다.
 
 # Libraries
@@ -76,6 +78,7 @@
 8. DCGAN Tutorial (https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.gdxkk32d7)
 9. InfoGAN Tutorial (https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46#.9iaqd4it5)
 10. DiscoGAN in Pytorch (https://github.com/carpedm20/DiscoGAN-pytorch)
+11. Wiseodd GANs (https://github.com/wiseodd/generative-models)
 
 # Recurrent Neural Networks
 
