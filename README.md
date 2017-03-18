@@ -1,5 +1,5 @@
 # Deep Learning for beginners
-![alt_text](http://cdn.ndtv.com/tech/images/gadgets/deep_dream_ibis.jpg)
+![alt_text](https://scontent-hkg3-1.xx.fbcdn.net/v/t31.0-8/16113388_1306000346128432_8349610057861763653_o.jpg?oh=eadb19a4b639d989f2c010cc98493139&oe=595F0AA1)
 
 2016년 8월부터 딥러닝공부를 하면서 봤던 강의영상, 동영상, 블로그들의 목록입니다.
 
