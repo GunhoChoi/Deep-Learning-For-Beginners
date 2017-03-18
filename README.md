@@ -79,6 +79,7 @@
 9. InfoGAN Tutorial (https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46#.9iaqd4it5)
 10. DiscoGAN in Pytorch (https://github.com/carpedm20/DiscoGAN-pytorch)
 11. Wiseodd GANs (https://github.com/wiseodd/generative-models)
+12. DiscoGAN official (https://github.com/SKTBrain/DiscoGAN)
 
 # Recurrent Neural Networks
 
