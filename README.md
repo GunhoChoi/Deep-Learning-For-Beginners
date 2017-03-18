@@ -74,6 +74,7 @@
 7. GAN video generation (http://web.mit.edu/vondrick/tinyvideo/)
 8. DCGAN Tutorial (https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.gdxkk32d7)
 9. InfoGAN Tutorial (https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46#.9iaqd4it5)
+10. DiscoGAN in Pytorch (https://github.com/carpedm20/DiscoGAN-pytorch)
 
 # Recurrent Neural Networks
 
