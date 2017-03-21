@@ -125,7 +125,7 @@
 1. Data Augmentation with Keras api (http://machinelearningmastery.com/image-augmentation-deep-learning-keras/)
 2. Winner of Galaxy zoo (http://benanne.github.io/2014/04/05/galaxy-zoo.html)
 
-# Blogs
+# Blogs & Gist
 
 1. Fast Forward Labs (http://blog.fastforwardlabs.com/)
 2. Variational Autoencoder (http://oduerr.github.io/talks/)
@@ -134,3 +134,4 @@
 5. Brandon Amos Blog (https://bamos.github.io/)
 6. Hvass_lab_tutorials (https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 7. Tensorflow Queue and Threads (https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0#.fbfqfygsm)
+8. How to read images using tf.queue (https://gist.github.com/eerwitt/518b0c9564e500b4b50f)
