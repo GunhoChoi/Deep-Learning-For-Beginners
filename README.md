@@ -97,7 +97,7 @@
 4. Denny Britz Seq2seq (https://github.com/google/seq2seq)
 5. Pytorch for NLP tutorial (https://github.com/rguthrie3/DeepLearningForNLPInPytorch) 
 
-# Word2vec
+# word2vec
 
 1. Word2vec이 필요한 이유와 코드 공식사이트 번역본 (http://khanrc.tistory.com/entry/TensorFlow-6-word2vec-Theory, http://khanrc.tistory.com/entry/TensorFlow-7-word2vec-Implementation)
 2. Chris Mccormick의 Word2vec 설명 (http://mccormickml.com/tutorials/)
@@ -135,3 +135,7 @@
 6. Hvass_lab_tutorials (https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 7. Tensorflow Queue and Threads (https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0#.fbfqfygsm)
 8. How to read images using tf.queue (https://gist.github.com/eerwitt/518b0c9564e500b4b50f)
+
+# Awesome Series
+
+1. Awesome2vec (https://github.com/MaxwellRebo/awesome-2vec)
