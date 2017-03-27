@@ -88,6 +88,7 @@
 2. Andrej Kaparthy RNN의 활용가능성 (http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 3. Image caption generator in Tensorflow (https://github.com/tensorflow/models/tree/master/im2txt)
 4. Awesome RNN (https://github.com/kjw0612/awesome-rnn)
+5. Pytorch RNN (https://github.com/spro/practical-pytorch)
 
 # NLP
 
