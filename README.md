@@ -4,6 +4,10 @@
   
 2016년 8월부터 딥러닝공부를 하면서 봤던 강의영상, 동영상, 블로그들의 목록입니다.
 
+# What is Deep Learning ?
+
+1. Deep Learning introduced by Nvidia (https://www.youtube.com/watch?v=C2FS9WVm7j4)
+
 # Libraries
 
 1. Tensorflow (https://www.tensorflow.org/)
