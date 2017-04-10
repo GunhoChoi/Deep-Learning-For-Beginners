@@ -60,6 +60,7 @@
 3. Semantic Flow segmentation (https://ps.is.tuebingen.mpg.de/research_projects/semantic-optical-flow, https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/261/semanticflow.pdf)
 4. Image Segmentation (http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/)
 5. Localization & Detection gitbook (https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
+6. Image Processing in classical ways(?)(https://www.giassa.net/?page_id=118) 
 
 # Unsupervised Learning
 
