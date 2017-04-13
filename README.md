@@ -132,7 +132,7 @@
 
 1. Data Augmentation with Keras api (http://machinelearningmastery.com/image-augmentation-deep-learning-keras/)
 2. Winner of Galaxy zoo (http://benanne.github.io/2014/04/05/galaxy-zoo.html)
-3. Elastic Deformation (https://gist.github.com/fmder/e28813c1e8721830ff9c)
+3. Elastic Deformation (https://gist.github.com/chsasank/4d8f68caf01f041a6453e67fb30f8f5a)
 4. Elastic Deformation2 (https://www.kaggle.com/bguberfain/ultrasound-nerve-segmentation/elastic-transform-for-data-augmentation)
 
 
