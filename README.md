@@ -8,6 +8,10 @@
 
 1. Deep Learning introduced by Nvidia (https://www.youtube.com/watch?v=C2FS9WVm7j4)
 
+# Installation
+
+1. Azure server NV series install (https://docs.microsoft.com/en-us/azure/virtual-machines/linux/n-series-driver-setup)
+
 # Libraries
 
 1. Tensorflow (https://www.tensorflow.org/)
