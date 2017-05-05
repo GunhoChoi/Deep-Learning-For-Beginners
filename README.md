@@ -22,6 +22,7 @@
 6. Keras Blog (https://blog.keras.io/index.html)
 7. Python Torch tutorial (https://github.com/yunjey/pytorch-tutorial)
 8. Incredible Pytorch (https://github.com/ritchieng/the-incredible-pytorch)
+9. Caffe2 (https://caffe2.ai/)
 
 # Machine Learning Basics
 
@@ -56,6 +57,7 @@
 12. 자료들이 모여있는 Awesome Deep vision (https://github.com/kjw0612/awesome-deep-vision)
 13. ResNet in Tensorflow (https://github.com/ry/tensorflow-resnet)
 14. ResNet, DenseNet (https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.rbzbvof9l)
+15. Spatial Transformer Network (https://github.com/fxia22/stn.pytorch)
 
 # Detection & Semantic Segmentation
 
@@ -139,7 +141,6 @@
 2. Winner of Galaxy zoo (http://benanne.github.io/2014/04/05/galaxy-zoo.html)
 3. Elastic Deformation (https://gist.github.com/chsasank/4d8f68caf01f041a6453e67fb30f8f5a)
 4. Elastic Deformation2 (https://www.kaggle.com/bguberfain/ultrasound-nerve-segmentation/elastic-transform-for-data-augmentation)
-
 
 # Blogs & Gist
 
