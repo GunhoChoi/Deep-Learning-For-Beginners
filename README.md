@@ -157,3 +157,7 @@
 # Awesome Series
 
 1. Awesome2vec (https://github.com/MaxwellRebo/awesome-2vec)
+
+# Mathematics for Deep Learning
+
+1. Essence of Linear Algebra (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
