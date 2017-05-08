@@ -161,3 +161,4 @@
 # Mathematics for Deep Learning
 
 1. Essence of Linear Algebra (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+2. 공돌이의 수학정리노트 (https://wikidocs.net/book/563)
