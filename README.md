@@ -68,6 +68,7 @@
 5. Localization & Detection gitbook (https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
 6. Image Processing in classical ways(?)(https://www.giassa.net/?page_id=118) 
 7. All about segmentation (https://github.com/mrgloom/Semantic-Segmentation-Evaluation)
+8. Tensorflow Faster R-CNN (https://github.com/endernewton/tf-faster-rcnn)
 
 # Unsupervised Learning
 
