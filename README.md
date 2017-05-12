@@ -58,6 +58,7 @@
 13. ResNet in Tensorflow (https://github.com/ry/tensorflow-resnet)
 14. ResNet, DenseNet (https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.rbzbvof9l)
 15. Spatial Transformer Network (https://github.com/fxia22/stn.pytorch)
+16. Filtered image after convolution (http://setosa.io/ev/image-kernels/)
 
 # Detection & Semantic Segmentation
 
