@@ -60,6 +60,7 @@
 15. Spatial Transformer Network (https://github.com/fxia22/stn.pytorch)
 16. Filtered image after convolution (http://setosa.io/ev/image-kernels/)
 17. Convolution Transposed (https://arxiv.org/pdf/1603.07285.pdf)
+18. LeNet to ResNet (http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf)
 
 # Detection & Semantic Segmentation
 
