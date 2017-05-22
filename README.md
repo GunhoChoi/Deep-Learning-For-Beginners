@@ -100,6 +100,7 @@
 10. DiscoGAN in Pytorch (https://github.com/carpedm20/DiscoGAN-pytorch)
 11. Wiseodd GANs (https://github.com/wiseodd/generative-models)
 12. DiscoGAN official (https://github.com/SKTBrain/DiscoGAN)
+13. CycleGAN tutorial (https://hardikbansal.github.io/CycleGANBlog/)
 
 # Recurrent Neural Networks
 
