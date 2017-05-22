@@ -116,7 +116,7 @@
 4. Denny Britz Seq2seq (https://github.com/google/seq2seq)
 5. Pytorch for NLP tutorial (https://github.com/rguthrie3/DeepLearningForNLPInPytorch) 
 
-# word2vec
+## word2vec
 
 1. Word2vec이 필요한 이유와 코드 공식사이트 번역본 (http://khanrc.tistory.com/entry/TensorFlow-6-word2vec-Theory, http://khanrc.tistory.com/entry/TensorFlow-7-word2vec-Implementation)
 2. Chris Mccormick의 Word2vec 설명 (http://mccormickml.com/tutorials/)
@@ -169,3 +169,4 @@
 1. Essence of Linear Algebra (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 2. 공돌이의 수학정리노트 (https://wikidocs.net/book/563)
 3. Brilliant.org (https://brilliant.org/)
+4. Cross Entropy Loss & KL divergence (http://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
