@@ -7,6 +7,7 @@
 # What is Deep Learning ?
 
 1. Deep Learning introduced by Nvidia (https://www.youtube.com/watch?v=C2FS9WVm7j4)
+2. Deep Learrning Roadmap (https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 # Installation
 
