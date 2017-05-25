@@ -134,6 +134,7 @@
 2. Udacity Self Driving Car Simulator (https://github.com/udacity/self-driving-car-sim)
 3. UC Berkeley RL (http://rll.berkeley.edu/deeprlcourse/)
 4. Denny Britz RL (http://www.wildml.com/2016/10/learning-reinforcement-learning/, https://github.com/dennybritz/reinforcement-learning)
+5. RL Derivatives (http://www.alexirpan.com/rl-derivations/)
 
 # Visualization
 
