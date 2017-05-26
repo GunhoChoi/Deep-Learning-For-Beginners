@@ -35,6 +35,7 @@
 6. Kaggle 1st place for 2 years (http://course.fast.ai/lessons/lesson1.html)
 7. 아니 이 많은걸 언제 다 정리하셨대 (https://handong1587.github.io/index.html)
 8. Experiments about ReLU/LeakyReLu/PReLU (https://arxiv.org/pdf/1505.00853.pdf)
+9. Hyperparameter optimization (https://arimo.com/data-science/2016/bayesian-optimization-hyperparameter-tuning/)
 
 # General Neural Networks
 
