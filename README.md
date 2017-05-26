@@ -46,7 +46,7 @@
 
 # Convolutional Neural Networks
 
-1. CNN을 쉽게 이해하도록 도와준 영상 (https://youtu.be/FmpDIaiMIeA)
+1. CNN을 쉽게 이해하도록 도와준 영상 (https://youtu.be/FmpDIaiMIeA, https://brohrer.github.io/how_convolutional_neural_networks_work.html)
 2. 그 유명한 cs231n 강의 (https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 3. 그 유명한 cs231n 강의노트 (http://cs231n.github.io/)
 4. 한글로 설명이 잘되어있는 라온피플 블로그 (http://laonple.blog.me/220463627091) 
