@@ -65,6 +65,7 @@
 16. Filtered image after convolution (http://setosa.io/ev/image-kernels/)
 17. Convolution Transposed (https://arxiv.org/pdf/1603.07285.pdf)
 18. LeNet to ResNet (http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf)
+19. 2017 cs21n (http://cs231n.stanford.edu/)
 
 # Detection & Semantic Segmentation
 
