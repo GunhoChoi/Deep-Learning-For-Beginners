@@ -121,6 +121,7 @@
 3. Seq2seq TF1.0 code (https://github.com/ematvey/tensorflow-seq2seq-tutorials)
 4. Denny Britz Seq2seq (https://github.com/google/seq2seq)
 5. Pytorch for NLP tutorial (https://github.com/rguthrie3/DeepLearningForNLPInPytorch) 
+6. Practical Pytorch for NLP (https://github.com/spro/practical-pytorch)
 
 ## word2vec
 
