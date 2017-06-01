@@ -113,6 +113,7 @@
 3. Image caption generator in Tensorflow (https://github.com/tensorflow/models/tree/master/im2txt)
 4. Awesome RNN (https://github.com/kjw0612/awesome-rnn)
 5. Pytorch RNN (https://github.com/spro/practical-pytorch)
+6. LSTM experiments (http://blog.echen.me/2017/05/30/exploring-lstms/)
 
 # NLP
 
