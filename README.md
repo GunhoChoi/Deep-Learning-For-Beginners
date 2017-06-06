@@ -179,3 +179,4 @@
 2. 공돌이의 수학정리노트 (https://wikidocs.net/book/563)
 3. Brilliant.org (https://brilliant.org/)
 4. Cross Entropy Loss & KL divergence (http://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
+5. PRML by Bishop in Korean (http://norman3.github.io/prml/)
