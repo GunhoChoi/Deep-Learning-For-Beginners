@@ -44,6 +44,7 @@
 2. 한단계 한단계 Back propagation에 대한 친절한 설명 (https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 3. Batch Normalization (https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
 4. Gradient Descent Optimization Algorithm 비교 (http://sebastianruder.com/optimizing-gradient-descent/)
+5. Adagrad, Adadelta,RMSProp,Adam (http://prinsphield.github.io/2016/02/04/An%20Overview%20on%20Optimization%20Algorithms%20in%20Deep%20Learning%20(II)/)
 
 # Convolutional Neural Networks
 
