@@ -115,6 +115,7 @@
 4. Awesome RNN (https://github.com/kjw0612/awesome-rnn)
 5. Pytorch RNN (https://github.com/spro/practical-pytorch)
 6. LSTM experiments (http://blog.echen.me/2017/05/30/exploring-lstms/)
+7. Attention Mechanism in RNN (https://www.youtube.com/watch?v=QuvRWevJMZ4)
 
 # NLP
 
