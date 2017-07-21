@@ -126,7 +126,7 @@
 5. Pytorch for NLP tutorial (https://github.com/rguthrie3/DeepLearningForNLPInPytorch) 
 6. Practical Pytorch for NLP (https://github.com/spro/practical-pytorch)
 
-## word2vec
+# Word2vec
 
 1. Word2vec이 필요한 이유와 코드 공식사이트 번역본 (http://khanrc.tistory.com/entry/TensorFlow-6-word2vec-Theory, http://khanrc.tistory.com/entry/TensorFlow-7-word2vec-Implementation)
 2. Chris Mccormick의 Word2vec 설명 (http://mccormickml.com/tutorials/)
