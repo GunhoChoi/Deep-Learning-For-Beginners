@@ -175,6 +175,7 @@
 # Awesome Series
 
 1. Awesome2vec (https://github.com/MaxwellRebo/awesome-2vec)
+2. Awesome Bayesian Deep Learning (https://github.com/robi56/awesome-bayesian-deep-learning)
 
 # Mathematics for Deep Learning
 
