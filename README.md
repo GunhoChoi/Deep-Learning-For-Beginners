@@ -185,3 +185,4 @@
 4. Cross Entropy Loss & KL divergence (http://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 5. PRML by Bishop in Korean (http://norman3.github.io/prml/)
 6. Mathematical Tour in Python (http://www.numerical-tours.com/python/)
+7. Statistical Distributions (http://hamelg.blogspot.kr/2015/11/python-for-data-analysis-part-22.html)
