@@ -171,6 +171,7 @@
 7. Tensorflow Queue and Threads (https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0#.fbfqfygsm)
 8. How to read images using tf.queue (https://gist.github.com/eerwitt/518b0c9564e500b4b50f)
 9. Sungjoon choi's blog (http://enginius.tistory.com/)
+10. Openresearch.ai(http://openresearch.ai/)
 
 # Awesome Series
 
