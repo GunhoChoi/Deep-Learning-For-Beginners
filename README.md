@@ -173,6 +173,7 @@
 8. How to read images using tf.queue (https://gist.github.com/eerwitt/518b0c9564e500b4b50f)
 9. Sungjoon choi's blog (http://enginius.tistory.com/)
 10. Openresearch.ai(http://openresearch.ai/)
+11. Why Denoising?(https://thecuriousaicompany.com/another-test-learning-by-denoising-part-1-what-and-why-of-denoising/)
 
 # Awesome Series
 
