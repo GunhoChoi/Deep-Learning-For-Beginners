@@ -152,7 +152,9 @@
 3. MNIST 시각화 (http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 4. Tensorboard 예시 (https://github.com/normanheckscher/mnist-tensorboard-embeddings)
 5. How to use t-SNE effectively (http://distill.pub/2016/misread-tsne/)
-6. CAM:Class Activation Map (http://tmmse.xyz/2016/04/10/object-localization-with-weakly-supervised-learning/)
+6. CAM:Class Activation Map (http://cnnlocalization.csail.mit.edu/)
+7. CAM:Class Activation Map 한글설명 (http://tmmse.xyz/2016/04/10/object-localization-with-weakly-supervised-learning/)
+8. Grad-CAM Pytorch(https://github.com/jacobgil/pytorch-grad-cam)
 
 # Data Augmentation
 
