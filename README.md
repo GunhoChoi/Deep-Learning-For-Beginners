@@ -165,6 +165,10 @@
 4. Elastic Deformation2 (https://www.kaggle.com/bguberfain/ultrasound-nerve-segmentation/elastic-transform-for-data-augmentation)
 5. Image Data Augmentations (https://github.com/aleju/imgaug) 
 
+# Ensemble
+
+1. Snapshot Ensembles: Train 1, get M for free (https://arxiv.org/abs/1704.00109)
+
 # Blogs & Gist
 
 1. Fast Forward Labs (http://blog.fastforwardlabs.com/)
