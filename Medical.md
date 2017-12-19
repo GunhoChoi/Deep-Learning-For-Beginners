@@ -6,4 +6,4 @@
 
 ## Segmentation
 
-- 3d Brain Segmentation BrainNet(https://github.com/kaspermarstal/BrainNet)
+- 3D Brain Segmentation BrainNet(https://github.com/kaspermarstal/BrainNet)
