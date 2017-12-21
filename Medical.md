@@ -16,6 +16,10 @@
 
 - Deep Skull Skipping(https://github.com/GUR9000/Deep_MRI_brain_extraction)
 
+## Visualization
+
+- 3D Volume Visualization(https://www.datacamp.com/community/tutorials/matplotlib-3d-volumetric-data)
+
 ## Segmentation
 
 - 3D Brain Segmentation BrainNet(https://github.com/kaspermarstal/BrainNet)
