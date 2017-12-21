@@ -10,6 +10,7 @@
 ## Libraries
 
 - SimpleITK Notebooks(http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/)
+- Nibabel(http://nipy.org/nibabel/gettingstarted.html)
 
 ## Preprocessing
 
