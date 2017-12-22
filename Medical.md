@@ -6,6 +6,8 @@
 - MICCAI 2008 MS lesion Segmentation(https://www.nitrc.org/frs/?group_id=745)
 - NITRC(https://www.nitrc.org/)
 - IBSR: The Internet Brain Segmentation Repository (https://www.nitrc.org/projects/ibsr)
+  1. Brain MRI segmentation(T1)
+  2. Normal, Tumor Brain 둘 다 있음. 밸런스는 다름
 
 ## Libraries
 
