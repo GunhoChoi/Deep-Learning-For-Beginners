@@ -29,3 +29,4 @@
 
 - 3D Brain Segmentation BrainNet(https://github.com/kaspermarstal/BrainNet)
 - MS lesion segmentation using cascaded 3D convolutional neural networks (https://github.com/NIC-VICOROB/cnn-ms-lesion-segmentation)
+- Image Segmentation with SimpleITK(https://pyscience.wordpress.com/2014/10/19/image-segmentation-with-python-and-simpleitk/)
