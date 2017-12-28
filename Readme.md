@@ -80,6 +80,7 @@
 7. All about segmentation (https://github.com/mrgloom/Semantic-Segmentation-Evaluation)
 8. Tensorflow Faster R-CNN (https://github.com/endernewton/tf-faster-rcnn)
 9. Deeplab Resnet Tensorflow (https://github.com/DrSleep/tensorflow-deeplab-resnet)
+10. Segmentation Overview (https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)
 
 # Unsupervised Learning
 
