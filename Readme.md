@@ -68,6 +68,7 @@
 17. Convolution Transposed (https://arxiv.org/pdf/1603.07285.pdf)
 18. LeNet to ResNet (http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf,http://vision.stanford.edu/teaching/cs231b_spring1415/slides/alexnet_tugce_kyunghee.pdf)
 19. 2017 cs21n (http://cs231n.stanford.edu/)
+20. Convolution function as matrix multiplication (https://nrupatunga.github.io/convolution-2/)
 
 # Detection & Semantic Segmentation
 
