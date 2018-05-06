@@ -173,6 +173,12 @@
 
 1. Snapshot Ensembles: Train 1, get M for free (https://arxiv.org/abs/1704.00109)
 
+
+# Attention + Classification
+
+1. http://arxiv.org/abs/1704.06904
+2. http://arxiv.org/abs/1804.02391
+
 # Blogs & Gist
 
 1. Fast Forward Labs (http://blog.fastforwardlabs.com/)
