@@ -176,8 +176,9 @@
 
 # Attention + Classification
 
-1. http://arxiv.org/abs/1704.06904
-2. http://arxiv.org/abs/1804.02391
+1. Residual Attention Network for Image Classification (http://arxiv.org/abs/1704.06904)
+2. Learn To Pay Attention (http://arxiv.org/abs/1804.02391)
+3. Tell Me Where to Look: Guided Attention Inference Network (https://arxiv.org/abs/1802.10171)
 
 # Blogs & Gist
 
