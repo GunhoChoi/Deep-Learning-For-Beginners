@@ -209,4 +209,5 @@
 5. PRML by Bishop in Korean (http://norman3.github.io/prml/)
 6. Mathematical Tour in Python (http://www.numerical-tours.com/python/)
 7. Statistical Distributions (http://hamelg.blogspot.kr/2015/11/python-for-data-analysis-part-22.html)
-8.  PRML algorithms implemented in Python (https://github.com/ctgk/PRML)
+8. PRML algorithms implemented in Python (https://github.com/ctgk/PRML)
+9. Bloomberg Foundation of Machine Learning (https://bloomberg.github.io/foml/#lectures)
